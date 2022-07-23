@@ -1,4 +1,4 @@
-<img src='https://github.com/xyzyyyy/apkdownload/main/apkdownload.jpg'/>
+<img src='https://raw.githubusercontent.com/xyzyyyy/apkdownload/main/apkdownload.jpg'/>
 
 # APK Downloader
 for download APK from APKPURE.COM dan APK-DL.COM
