@@ -1,4 +1,4 @@
-<img src='https://github.com/xyzyyyy/apkdownload/blob/master/apkdownload.jpg'/>
+<img src='https://github.com/xyzyyyy/apkdownload/main/apkdownload.jpg'/>
 
 # APK Downloader
 for download APK from APKPURE.COM dan APK-DL.COM
@@ -9,4 +9,4 @@ $ cd apkdownload
 $ python APKDown.py
 
 # AUTHOR RAHARDIYAN 
-# :*
+# WA : 0882008211320
