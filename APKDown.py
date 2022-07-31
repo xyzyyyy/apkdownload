@@ -208,7 +208,7 @@ def donlot():
       except OSError:
             pass
       req = requests.get(linkfile, headers={'User-Agent':'Dalvik/2.1.0 (Linux; U; Android 7.1.2; Redmi Note 5A MIUI/V9.6.2.0.NDFMIFD'})
-      with open('File Download Tersimpan/'+nm+'.apk','wb') as dl:
+      with open('Hasil/'+nm+'.apk','wb') as dl:
             dl.write(req.content)
 def animasi():
       zz = ['.   ','..  ','... ']
